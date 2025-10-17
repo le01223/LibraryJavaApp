@@ -72,7 +72,7 @@ git clone https://github.com/le01223/LibraryJavaApp.git
 
 ---
 ### Страница какого-то пользователя и списком его книг(возможность изменить его данные или удалить)
-![Image](https://github.com/user-attachments/assets/09a39cb2-56d4-4b21-bc7f-72f1f4196711)
+![Image](https://github.com/user-attachments/assets/f7cd72fd-00c5-4950-a554-5856394a4ded)
 
 ---
 ### Страница со всеми имеющимися книгами в библиотеке
