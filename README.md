@@ -60,3 +60,7 @@
 ```bash
 git clone https://github.com/le01223/LibraryJavaApp.git
 ```
+
+
+## Скриншоты работы
+### Страница со всеми читателями
