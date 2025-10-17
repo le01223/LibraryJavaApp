@@ -64,3 +64,21 @@ git clone https://github.com/le01223/LibraryJavaApp.git
 
 ## Скриншоты работы
 ### Страница со всеми читателями
+![Image](https://github.com/user-attachments/assets/7b469022-6c72-4344-90d8-70c07a676345)
+
+---
+### Страница с регистрацией читателя и ошибками при ложном заполнении формы
+![Image](https://github.com/user-attachments/assets/32e55609-4dc8-4bbe-a7bf-b962ed954f76)
+
+---
+### Страница с определенным читателем и списком взятых им книг(возможность изменения данных читателя и полного удаления данных из БД в том числе)
+![Image](https://github.com/user-attachments/assets/09a39cb2-56d4-4b21-bc7f-72f1f4196711)
+
+
+
+---
+
+### Страница с 
+![Image](https://github.com/user-attachments/assets/3af964fa-b3d7-4d73-857c-d1b08de96230)
+
+![Image](https://github.com/user-attachments/assets/52133afd-16c5-4eb1-ae87-f347e4784c86)
