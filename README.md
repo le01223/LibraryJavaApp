@@ -76,7 +76,7 @@ git clone https://github.com/le01223/LibraryJavaApp.git
 
 ---
 ### Страница со всеми имеющимися книгами в библиотеке
-![Image](https://github.com/user-attachments/assets/52133afd-16c5-4eb1-ae87-f347e4784c86)
+![Image](https://github.com/user-attachments/assets/8236a0b8-cf2b-4560-969a-8027dfa120cb)
 
 ---
 
