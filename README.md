@@ -81,7 +81,7 @@ git clone https://github.com/le01223/LibraryJavaApp.git
 ---
 
 ### Страница с выбором выдачи книги 
-![Image](https://github.com/user-attachments/assets/3af964fa-b3d7-4d73-857c-d1b08de96230)
+![Image](https://github.com/user-attachments/assets/09020dd8-d46a-47b1-a1d2-5bb6a29dec9d)
 
 ---
 ### Страница с добавлением книги(и ошибками при ложном заполнении формы)
